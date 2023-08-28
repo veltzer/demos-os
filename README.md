@@ -1,5 +1,10 @@
 # demos-os
 
+## Operating system emulators
+* qemu
+* bochs
+* virtualbox
+
 These are demos about how to build your own operating system.
 
 ## Links
